@@ -1,13 +1,13 @@
 # 😎 Oriyomi Badmus 
 
-**`Software/DevOps Engineer`**
+**`DevOps Engineer`**
 ### ☁️ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-I'm a Software/DevOps Engineer. I am passionate about Software, Site Reliability Engineering, DevOps culture, and Infrastructure Automation.
+I'm a DevOps Engineer. I am passionate about Software, Site Reliability Engineering, DevOps culture, and Infrastructure Automation.
 
 - 🌱 I’m currently working on projects
 - 👯 I’m looking to collaborate on: Software, DevOps, SRE and Cloud Engineering.
-- ⚡ Fun fact: I love travelling, music, and chilling 🎧✈️🌴
+- ⚡ Fun fact: I love travelling and listening to music 🎧✈️🌴
 
 ## 🔧Technologies and Tools
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
